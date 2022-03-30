@@ -1,5 +1,5 @@
 ## CodeUp
-# 🔥 This repository is a culmination of all of my work at CodeUp 🔥
+🔥 This repository is a collection of all of my work at CodeUp 🔥
 
 <img src="codeup_logo.png" alt="CodeUp Logo">
 
